@@ -2,7 +2,7 @@
 ## Project Objectives
 #### This project aims to accomplish the following key objectives:
 ### Sales Report :
-#### 1. Customer sales performance report
+#### 1. Customer sales performance report (https://github.com/RewadaAnilKumar/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20customer%20sales%20performance%20%20report.pdf)
 - Analyze the sales performance of our customers over the years, focusing on how much sales have increased annually and the growth percentages.
 #### 2.Market Performance and Sales Targets Comparison:
  - **Compare** market performance and sales targets comprehensively, providing insights into the effectiveness of sales strategies.
