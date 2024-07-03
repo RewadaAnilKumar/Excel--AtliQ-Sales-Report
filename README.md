@@ -3,11 +3,11 @@
 #### This project aims to accomplish the following key objectives:
 ### Sales Report :
   
-####  Customer sales performance report
+####  1.Customer sales performance report
 - Analyze the sales performance of our customers over the years, focusing on how much sales have increased annually and the growth percentages.
 #### 2.Market Performance and Sales Targets Comparison:
  - **Compare** market performance and sales targets comprehensively, providing insights into the effectiveness of sales strategies.
-## Key Points of sales  Analytics
+### Key Points of sales  Analytics
 
  - Purpose of sales analytics is to empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -19,7 +19,7 @@
 - Generate Profit and Loss reports categorized by fiscal year and months to assess financial performance across various time frames.
 #### 2. Profit and Loss (P&L) Reports by Markets:
 - Create Profit and Loss reports categorized by markets to assist in benchmarking against industry peers and previous periods.
-## Key Points of Finance  Analytics
+### Key Points of Finance  Analytics
 
 - Purpose of sales analytics is to evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
