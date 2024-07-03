@@ -2,7 +2,8 @@
 ## Project Objectives
 #### This project aims to accomplish the following key objectives:
 ### Sales Report :
-#### 1. Customer sales performance report (https://github.com/RewadaAnilKumar/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20customer%20sales%20performance%20%20report.pdf)
+  
+####  Customer sales performance report
 - Analyze the sales performance of our customers over the years, focusing on how much sales have increased annually and the growth percentages.
 #### 2.Market Performance and Sales Targets Comparison:
  - **Compare** market performance and sales targets comprehensively, providing insights into the effectiveness of sales strategies.
@@ -40,3 +41,10 @@
 - [x]	Systematic Approach: I developed a methodical approach to planning and building reports, which improved efficiency.
 ## Conclusion
 #### This project enabled me to use my technical skills and offered opportunities for ongoing learning and growth. The knowledge gained is crucial for my career in data analysis, and I'm eager to apply these skills in future projects.
+## Reports Links 
+ - _[customer performance report](https://github.com/RewadaAnilKumar/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20customer%20sales%20performance%20%20report.pdf)_
+ -  _[market performance and sales targets](https://github.com/RewadaAnilKumar/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Market%20performance%20vs%20Target%20report.pdf)_
+ -  _[Profit and Loss (P&L) reports by Fiscal Year & months](https://github.com/RewadaAnilKumar/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Profit%20and%20Loss%20(P%26L)%20Reports%20by%20Fiscal%20Year%20and%20Months.pdf)_
+ - [ Profit and Loss (P&L) reports by Markets](https://github.com/RewadaAnilKumar/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)_
+
+   
